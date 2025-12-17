@@ -136,15 +136,6 @@ The app uses Firebase configuration in:
 
 Tailwind configuration is in `tailwind.config.ts` and includes custom theme extensions.
 
-## Performance
-
-- Production bundle size: ~637 KB (176 KB gzipped)
-- Optimized with code splitting and lazy loading
-- Fast page load times with Vite's optimized build
-
-## Design Reference
-
-The original design is available at: https://www.figma.com/design/6KKo8DS1yAtCXBiKgE2Oia/AI-Co-Founder-Web-App-UI
 
 ## Future Development
 
